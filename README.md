@@ -1,6 +1,6 @@
 # machine-learning-challenge
 
-exoplanets.jpg
+https://github.com/chirchir92/machine-learning-challenge/blob/main/Images/exoplanets.jpg
 
 # Background
 
