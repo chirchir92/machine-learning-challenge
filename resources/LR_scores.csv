@@ -1,4 +1,4 @@
 ,model tested,accuracy
-0,root model,86.21%
+0,root model,45.31%
 1,selected features model,86.21%
 2,tuned model,89.47%
