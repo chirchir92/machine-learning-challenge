@@ -15,8 +15,9 @@ The dataset was preprocessed  before fitting the models. Feature selection was p
 GridSearch was used to tune the model parameters in both algorithms (LR and RFC). A comparison of the models was conducted using two different classifiers.
 
 # Findings and summary
-Screen Shot 2022-10-09 at 3.07.42 pm.png
 
 This project tested LinearRegression and Random Forest Classifier to determine the better candidacy for exoplanets dataset. From the screenshot, it is evident that RFC is a better model for predicting exoplanets candidacy, with a tuned model accuracy of 90.39% in comparison to 89.47% of LR model.
+
+
 =======
 >>>>>>> origin
