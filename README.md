@@ -1,4 +1,5 @@
 # machine-learning-challenge
+<<<<<<< HEAD
 
 # Background
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
@@ -17,3 +18,5 @@ GridSearch was used to tune the model parameters in both algorithms (LR and RFC)
 Screen Shot 2022-10-09 at 3.07.42 pm.png
 
 This project tested LinearRegression and Random Forest Classifier to determine the better candidacy for exoplanets dataset. From the screenshot, it is evident that RFC is a better model for predicting exoplanets candidacy, with a tuned model accuracy of 90.39% in comparison to 89.47% of LR model.
+=======
+>>>>>>> origin
